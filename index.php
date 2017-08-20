@@ -1,2 +1,2 @@
-Hello new 1
+Good by, not hello
 <p>Hi people</p>
